@@ -200,10 +200,10 @@ html.shinybox {
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
 }.shinybox-prev, .shinybox-next, .shinybox-close {
-    background-image: url(//armstrong-pompy.pl/onewebstatic/5d6e0255a7.svg) !important;
+    background-image: url(/onewebstatic/5d6e0255a7.svg) !important;
 }
 .shinybox-overlay .shinybox-slider .loading {
-    background: url(//armstrong-pompy.pl/onewebstatic/074175b89d.gif) no-repeat center center !important;
+    background: url(/onewebstatic/074175b89d.gif) no-repeat center center !important;
 }
 #shinybox-overlay .shinybox-bottom {
     text-align: center;
@@ -264,7 +264,7 @@ html.shinybox {
 
 /* mouse grab icon */
 .grabbing { 
-    cursor:url(//armstrong-pompy.pl/onewebstatic/d817e1dba5.png) 8 8, move;
+    cursor:url(/onewebstatic/d817e1dba5.png) 8 8, move;
 }
 
 /* fix */
@@ -441,7 +441,7 @@ html.shinybox {
 }/* Theme */
 .owl-item.loading{
     min-height: 150px;
-    background: url(//armstrong-pompy.pl/onewebstatic/5b8b06c052.gif) no-repeat center center
+    background: url(/onewebstatic/5b8b06c052.gif) no-repeat center center
 }
 .owl-theme .owl-controls .owl-page {
     display: inline-block;
@@ -478,13 +478,13 @@ html.shinybox {
 }
 .owl-theme .owl-buttons .owl-prev {
     left: 10px;
-    background-image: url(//armstrong-pompy.pl/onewebstatic/0ef124d7ef.png);
+    background-image: url(/onewebstatic/0ef124d7ef.png);
     width: 42px;
     height: 42px;
 }
 .owl-theme .owl-buttons .owl-next {
     right: 10px;
-    background-image: url(//armstrong-pompy.pl/onewebstatic/0d043601d6.png);
+    background-image: url(/onewebstatic/0d043601d6.png);
     width: 42px;
     height: 42px;
 }
@@ -496,7 +496,7 @@ html.shinybox {
     width: 100%;
 }
 .owl-theme .owl-pagination .owl-page {
-    background-image: url(//armstrong-pompy.pl/onewebstatic/530e65bdfe.png);
+    background-image: url(/onewebstatic/530e65bdfe.png);
     background-repeat: no-repeat;
     width: 20px;
     height: 20px;
@@ -504,10 +504,10 @@ html.shinybox {
     overflow: hidden;
 }
 .owl-theme .owl-pagination .owl-page:hover {
-    background-image: url(//armstrong-pompy.pl/onewebstatic/1447e94d4e.png);
+    background-image: url(/onewebstatic/1447e94d4e.png);
 }
 .owl-theme .owl-pagination .owl-page.active {
-    background-image: url(//armstrong-pompy.pl/onewebstatic/1447e94d4e.png);
+    background-image: url(/onewebstatic/1447e94d4e.png);
 }
 .owl-theme .owl-pagination .owl-page > span {
     margin: 4px;

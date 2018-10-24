@@ -200,10 +200,10 @@ html.shinybox {
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
 }.shinybox-prev, .shinybox-next, .shinybox-close {
-    background-image: url(//armstrong-pompy.pl/onewebstatic/5d6e0255a7.svg) !important;
+    background-image: url(/onewebstatic/5d6e0255a7.svg) !important;
 }
 .shinybox-overlay .shinybox-slider .loading {
-    background: url(//armstrong-pompy.pl/onewebstatic/074175b89d.gif) no-repeat center center !important;
+    background: url(/onewebstatic/074175b89d.gif) no-repeat center center !important;
 }
 #shinybox-overlay .shinybox-bottom {
     text-align: center;
