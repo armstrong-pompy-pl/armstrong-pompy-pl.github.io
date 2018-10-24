@@ -1,0 +1,1 @@
+window.linkOpener=function(a){return function(b,c,d,e){b=b||window.event,d.search("preview")===-1&&a(b.target).closest(".image.component").hasClass("id"+c)?(b.stopPropagation(),window.open(d,e)):a(b.target).attr("href",d)}}(oneJQuery);
